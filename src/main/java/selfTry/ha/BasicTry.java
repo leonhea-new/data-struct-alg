@@ -1,7 +1,4 @@
-package personal.ha;
-
-import personal.ha.CirclrQueue;
-import java.lang.reflect.Method;
+package selfTry.ha;
 
 public class BasicTry {
 

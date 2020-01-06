@@ -1,8 +1,6 @@
-package personal.ha;
+package selfTry.ha;
 
 import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
 import java.util.Random;
 
 public class TableDynamicPlan {

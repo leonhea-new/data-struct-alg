@@ -1,4 +1,4 @@
-package personal.ha;
+package selfTry.ha;
 
 import static org.junit.Assert.assertTrue;
 

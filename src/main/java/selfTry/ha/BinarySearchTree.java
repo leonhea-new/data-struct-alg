@@ -1,4 +1,4 @@
-package personal.ha;
+package selfTry.ha;
 
 public class BinarySearchTree {
     Node head;
